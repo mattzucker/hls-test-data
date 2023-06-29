@@ -4,6 +4,7 @@
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.000,
 #segment_0.ts
+#aaa
 segment_0_noaudio_missingframe2.ts
 #EXTINF:10.000,
 segment_1.ts
