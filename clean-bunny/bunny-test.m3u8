@@ -73,6 +73,7 @@ bunny32.ts
 bunny33.ts
 #EXTINF:7.500000,
 bunny34.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:11.250000,
 #bunny35.ts
 bunny35_missing2.ts
