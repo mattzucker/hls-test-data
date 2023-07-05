@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000
+https://tst.gibs.srcle.com/VAWS/current/rest/mission/46822823/m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000
+https://tst.gibs.srcle.com/VAWS/current/rest/mission/46822824/m3u8
