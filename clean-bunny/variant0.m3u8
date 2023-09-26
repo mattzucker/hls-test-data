@@ -3,8 +3,8 @@
 #EXT-X-TARGETDURATION:12
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:11.250000,
-#bunny0.ts
-bunny0_missing2.ts
+bunny0.ts
+#bunny0_missing2.ts
 #EXTINF:11.250000,
 bunny1.ts
 #EXTINF:7.500000,
@@ -76,8 +76,8 @@ bunny34.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:11.250000,
 #EXT-X-GAP
-#bunny35.ts
-bunny0_missing2.ts
+bunny35.ts
+#bunny0_missing2.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:10.458333,
 bunny36.ts
